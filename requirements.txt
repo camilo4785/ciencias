@@ -1,0 +1,15 @@
+pathlib
+dash
+datetime 
+pandas 
+dash_core_components 
+dash_html_components
+geopandas
+plotly.express 
+dash_bootstrap_components 
+plotly
+dash_leaflet
+haversine
+geopy
+geocoder
+psycopg2-binary
